@@ -44,3 +44,12 @@ A collection of resources about DataFusion
 # Projects that use DataFusion
 
 - [Restate](https://restate.dev/)
+
+# Slides from Meetuups
+
+- [Composing Data Systems At Datadog.pdf](https://github.com/user-attachments/files/17080025/Composing.Data.Systems.At.Datadog.pdf), - Wendell Smith and Alex Bianchi, DataDog.
+- [Embedding DataFusion in Postgres, Strengths and Limitations](https://docs.google.com/presentation/d/15yZBgAKSUB8nQGTOg9hNzuSAN7D9SPPAs_mpyxqoZyk/edit?usp=sharing): Philippe Noël, ParadeDB, CEO
+- [Ibis + DataFusion playing (very) nicely together.](https://ibis-project.org/presentations/datafusion-meetup-nyc-2024/talk)- Gil Forsyth, Voltron Data, Senior Staff Software Engineer
+- [Materialized Views and Query Rewriting in DataFusion](https://drive.google.com/open?id=1mHDw1uZcOwlpUO3mA8aqSyk7IqeovpSuXG27clowXWE): Matthew Cramerus, [Polygon.io](http://polygon.io/), Software Engineer
+- [Using DataFusion to build InfluxDB 3.0](https://docs.google.com/presentation/d/1dOLPAFPEMLhLv4NN6O9QSDIyyeiIySqAjky5cVgdWAE/edit#slide=id.g26bebde4fcc_3_7): Andrew Lamb, InfluxData, Staff Engineer
+- [dft: A terminal application for DataFusion](https://docs.google.com/presentation/d/1u42k8ZBHObLx1Ph5CvQOkeRJ72ys81Jo7BkCxjCU5Ik/edit#slide=id.p) Matthew Turner
