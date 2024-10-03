@@ -47,9 +47,14 @@ A collection of resources about DataFusion
 
 # Slides from Meetuups
 
+- [Composable, Malleable & Lean Compute Infrastructure for the Future](https://docs.google.com/presentation/d/1i7l7bslZp3rRx0_S9ejFTC5ChyvS2bYS/edit#slide=id.p1) Mehmet Ozan Kabak, Synnada CEO @ozankabak (I don't seem to have these slides)
 - [Composing Data Systems At Datadog.pdf](https://github.com/user-attachments/files/17080025/Composing.Data.Systems.At.Datadog.pdf), - Wendell Smith and Alex Bianchi, DataDog.
+- [DataFusion: What, Why, How](https://docs.google.com/presentation/d/1zFh-ayH922k9Rvz2lZxYzjfoemKfr8mRLpw8BLHdw7k/edit#slide=id.g26bebde4fcc_3_7)
+- [Database replication using the FDAP stack](https://docs.google.com/presentation/d/1hp0lRIwG8wpRlPMtdx-BPxXU3L2vqCBuPRkTFDgHoHo/edit#slide=id.p1) Marko Grujic, EnterpriseDB @gruuya
 - [Embedding DataFusion in Postgres, Strengths and Limitations](https://docs.google.com/presentation/d/15yZBgAKSUB8nQGTOg9hNzuSAN7D9SPPAs_mpyxqoZyk/edit?usp=sharing): Philippe Noël, ParadeDB, CEO
 - [Ibis + DataFusion playing (very) nicely together.](https://ibis-project.org/presentations/datafusion-meetup-nyc-2024/talk)- Gil Forsyth, Voltron Data, Senior Staff Software Engineer
 - [Materialized Views and Query Rewriting in DataFusion](https://drive.google.com/open?id=1mHDw1uZcOwlpUO3mA8aqSyk7IqeovpSuXG27clowXWE): Matthew Cramerus, [Polygon.io](http://polygon.io/), Software Engineer
+- [Reducing query latency in DataFusion via a caching object store layer](https://docs.google.com/presentation/d/1TiToVb5rVFrmuR9Dxej7HgWpyv0p_88Ise3CyQKZSzE/edit#slide=id.p1) Artjoms Iskovs, EnterpriseDB, Principal Engineer @mildbyte
+- [The Types](https://docs.google.com/presentation/d/1VW_JCGbN22lrGUOMRvUXGpAmlJopbG02hn_SDYJouiY) Piotr Findeisen, SDF @findepi
 - [Using DataFusion to build InfluxDB 3.0](https://docs.google.com/presentation/d/1dOLPAFPEMLhLv4NN6O9QSDIyyeiIySqAjky5cVgdWAE/edit#slide=id.g26bebde4fcc_3_7): Andrew Lamb, InfluxData, Staff Engineer
 - [dft: A terminal application for DataFusion](https://docs.google.com/presentation/d/1u42k8ZBHObLx1Ph5CvQOkeRJ72ys81Jo7BkCxjCU5Ik/edit#slide=id.p) Matthew Turner
