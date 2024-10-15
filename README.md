@@ -32,6 +32,7 @@ A collection of resources about DataFusion
 - [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/10.1145/3626246.3653368)
 - [DataFusion: A Rust-based Query Engine for Arrow](https://arrow.apache.org/blog/2020/07/07/datafusion-in-rust/)
 - [Flight, DataFusion, Arrow and Parquet: Using the FDAP architecture to build InfluxDB 3.0](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
+- [GizmoSQL, An Arrow Flight SQL Server with DuckDB or SQLite back-end execution engines](https://github.com/gizmodata/gizmosql)
 - [We built a new SQL engine on Arrow and DataFusion](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 
 # Videos
